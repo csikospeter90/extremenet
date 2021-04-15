@@ -1,0 +1,45 @@
+// -----------------------------------------------------------------------------
+// This file contains custom Sass variables.
+// -----------------------------------------------------------------------------
+
+// $custom-blue: blue;
+$fa-font-path: "/assets/fonts" !default;
+
+$brand-primary-color: #224A81;
+$brand-secondary-color: #848484;
+$white: #ffffff;
+
+$font-primary-color: $brand-secondary-color;
+$font-secondary-color: $brand-primary-color;
+
+$input-border-color: $brand-secondary-color;
+$checkbox-checked-bg-color: $brand-primary-color;
+
+$button-color: $white;
+$button-bg-color: $brand-primary-color;
+$button-actions-bg-color: #1c375d;
+
+$footer-bg-color: $brand-primary-color;
+
+$navbar-bg-color: $brand-primary-color;
+$navbar-font-color: $white;
+
+$navbar-font-color-mobile: $brand-primary-color;
+
+$navbar-link-color-mobile: $brand-primary-color;
+$nav-background-color: $white;
+
+$stand-bg-color: #DEDEDE;
+
+$modal-bg-color: $white;
+$modal-title-color: #86BD40;
+
+$title-color: #86BD40;
+
+$modal-left-button-bg-color: rgb(213, 26, 50);
+$modal-left-button-gradient-bottom-to-top: 180deg;
+$modal-left-button-gradient-left-to-right: 90deg;
+$modal-left-button-gradient-color-start: rgba(213, 26, 50, 1);
+$modal-left-button-gradient-color-end: rgba(112, 0, 75, 1);
+
+

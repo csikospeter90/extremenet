@@ -1,0 +1,18 @@
+// -----------------------------------------------------------------------------
+// This file contain all base element styles.
+// -----------------------------------------------------------------------------
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: "Arial", "sans-serif";
+
+}
+
+.content {
+    flex: 1
+}
+
+a, a:hover {
+    text-decoration: none;
+}
