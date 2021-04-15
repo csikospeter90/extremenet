@@ -1,5 +1,5 @@
 <h3>Project installation</h3>
-1. git clone https://github.com/csikospeter90/extremenet<br>
+1. git clone https://github.com/csikospeter90/extremenet.git<br>
 2. cd into your project in commalnd line<br>
 3. Install Composer Dependencies <code>composer install</code><br>
 4. Install NPM Dependencies <code>npm install && npm run dev</code><br>
